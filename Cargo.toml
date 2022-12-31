@@ -1,2 +1,2 @@
 [workspace]
-members = ["smart-contract", "fungible-token"]
+members = ["smart-contract", "fungible-token", "integration-tests"]

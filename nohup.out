@@ -1,0 +1,12 @@
+Starting deployment. Account id: dev-1672495122643-25287024295510, node: https://rpc.testnet.near.org, helper: https://helper.testnet.near.org, file: ./target/wasm32-unknown-unknown/release/fungible_token.wasm
+Starting deployment. Account id: dev-1672495122634-66209993218310, node: https://rpc.testnet.near.org, helper: https://helper.testnet.near.org, file: ./target/wasm32-unknown-unknown/release/smart_contract.wasm
+Receipt: CkjGJq9oUzfn5Bj5rqhZMJfiGLeBXjixS8CnXeKTXLfs
+	Log [dev-1672495122643-25287024295510]: EVENT_JSON:{"standard":"nep141","version":"1.0.0","event":"ft_mint","data":[{"owner_id":"trungtin2001.testnet","amount":"100000000000000000","memo":"Initial tokens supply is minted"}]}
+Transaction Id 4FHr2k8oFHLMK8jec9zc14VFgZWfaQ9hcTXGqKwZbGP6
+To see the transaction in the transaction explorer, please open this url in your browser
+https://explorer.testnet.near.org/transactions/4FHr2k8oFHLMK8jec9zc14VFgZWfaQ9hcTXGqKwZbGP6
+Transaction Id 6i6AubFwDr7wouTb8tou5Qy5zoxwq3PRUCrukEa4oKpy
+To see the transaction in the transaction explorer, please open this url in your browser
+https://explorer.testnet.near.org/transactions/6i6AubFwDr7wouTb8tou5Qy5zoxwq3PRUCrukEa4oKpy
+Done deploying and initializing dev-1672495122643-25287024295510
+Done deploying and initializing dev-1672495122634-66209993218310
